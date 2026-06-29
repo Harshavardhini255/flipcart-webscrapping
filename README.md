@@ -58,8 +58,4 @@ In this project, the data moved through five distinct stages, mirroring a real-w
  * **Premium Dominance:** High-end models from Microsoft and ASUS dominate the ₹1Lakh+ segment.
  * **Market Gap:** There is a significant density of products in the ₹50k-₹70k range, indicating high competition.
  * **Volume vs. Value:** While some brands have fewer listings, their average price point remains significantly higher than volume-focused brands.
-## 📂 How to Run
- 1. Clone this repository.
- 2. Run the scraper.py script to generate the latest CSV data.
- 3. Open the .pbix file in Power BI Desktop.
- 4. Refresh the data source to see the latest market trends.
+
